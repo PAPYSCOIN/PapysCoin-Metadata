@@ -1,0 +1,21 @@
+{
+  "name": "PapysCoin",
+  "symbol": "PAPY",
+  "description": "This is a meme coin on the Solana network.",
+  "image": "https://example.com/image.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme Coin"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/image.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
+
