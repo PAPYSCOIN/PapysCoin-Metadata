@@ -1,2 +1,1 @@
 # PapysCoin-Metadata
-Pappas penger
